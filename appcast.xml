@@ -20,5 +20,18 @@
             <pubDate>Tue, 10 Nov 2015 17:00:00 +0800</pubDate>
             <enclosure url="http://www.nilennoct.com/NeoPNG-update/NeoPNG-1.2.zip" sparkle:version="5" sparkle:shortVersionString="1.2" length="1080441" type="application/octet-stream" sparkle:dsaSignature="MC0CFQCs1n+qJ/wEMu1tOzZ0AqazMFrZWAIUUdkLJoegwYDuq+R8CIob+1lUqaE=" />
         </item>
+        <item>
+            <title>Version 1.2.1</title>
+            <description>
+                <![CDATA[
+                    <ul>
+                        <li>修改“覆盖原图”提示交互</li>
+                        <li>修改部分提示文案（Thanks to @叶菲）</li>
+                    </ul>
+                ]]>
+            </description>
+            <pubDate>Tue, 10 Nov 2015 19:10:00 +0800</pubDate>
+            <enclosure url="http://www.nilennoct.com/NeoPNG-update/NeoPNG-1.2.1.zip" sparkle:version="6" sparkle:shortVersionString="1.2.1" length="1804953" type="application/octet-stream" sparkle:dsaSignature="MC4CFQCNTDHPF3wOdjln+Fhi2R55MqBjiQIVALb+j57TCCDQ5tFbICMUEhpmRhlH" />
+        </item>
     </channel>
 </rss>
