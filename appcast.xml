@@ -2,23 +2,23 @@
 <rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle"  xmlns:dc="http://purl.org/dc/elements/1.1/">
     <channel>
         <title>NeoPNG</title>
-        <link>https://nilennoct.github.io/NeoPNG-update/appcast.xml</link>
-        <description>Most recent changes with links to updates.</description>
-        <language>en</language>
+        <sparkle:minimumSystemVersion>10.10</sparkle:minimumSystemVersion>
+        <link>http://www.nilennoct.com/NeoPNG-update/appcast.xml</link>
+        <description>Simple app to compress png files by pngquant.</description>
+        <language>zh-cn</language>
         <item>
             <title>Version 1.2</title>
             <description>
                 <![CDATA[
                     <ul>
-                    <li>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</li>
-                    <li>Suspendisse sed felis ac ante ultrices rhoncus. Etiam quis elit vel nibh placerat facilisis in id leo.</li>
-                    <li>Vestibulum nec tortor odio, nec malesuada libero. Cras vel convallis nunc.</li>
-                    <li>Suspendisse tristique massa eget velit consequat tincidunt. Praesent sodales hendrerit pretium.</li>
+                        <li>增加自动升级功能</li>
+                        <li>压缩失败时给出提示</li>
+                        <li>显示PNG图片Quality参数值</li>
                     </ul>
                 ]]>
             </description>
-            <pubDate>Sat, 26 Jul 2014 15:20:11 +0000</pubDate>
-            <enclosure url="https://nilennoct.github.io/NeoPNG-update/NeoPNG-1.2.zip" sparkle:version="1.2" length="1080441" type="application/octet-stream" sparkle:dsaSignature="MC0CFDZ90WK7+qWt4wkbR0Ln2275xp8AAhUAleAZ8lfPVw1EEKoxjroYdlPvoSk=" />
+            <pubDate>Tue, 10 Nov 2015 17:00:00 +0800</pubDate>
+            <enclosure url="http://www.nilennoct.com/NeoPNG-update/NeoPNG-1.2.zip" sparkle:version="5" sparkle:shortVersionString="1.2" length="1080441" type="application/octet-stream" sparkle:dsaSignature="MC0CFQCs1n+qJ/wEMu1tOzZ0AqazMFrZWAIUUdkLJoegwYDuq+R8CIob+1lUqaE=" />
         </item>
     </channel>
 </rss>
